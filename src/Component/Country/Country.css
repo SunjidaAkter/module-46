@@ -1,0 +1,14 @@
+.country{
+    background-color: rgb(196, 196, 196);
+    margin: 20px;
+    padding: 20px;
+    border-radius:20px;
+    transition: all 0.3s linear;
+}
+.country:hover {
+    transform: translate(5px, -5px);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+.country img{
+    width: 200px;
+}
