@@ -1,14 +1,16 @@
-.country{
-    background-color: rgb(196, 196, 196);
+.country {
+    background-color: rgb(247, 214, 214);
     margin: 20px;
     padding: 20px;
-    border-radius:20px;
+    border-radius: 20px;
     transition: all 0.3s linear;
 }
+
 .country:hover {
     transform: translate(5px, -5px);
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 10px rgba(255, 255, 255, 0.521);
 }
-.country img{
+
+.country img {
     width: 200px;
 }
